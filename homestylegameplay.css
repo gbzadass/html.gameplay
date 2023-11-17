@@ -1,0 +1,100 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.0;
+    background-image: url('https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/08/11/mk1-qxns4bt2xish.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+}
+
+
+
+header {
+    background-color: #333;
+    opacity: 0.7;
+    color: #fff;
+    padding: 25px;
+    display: middle;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+
+header .teste {
+    width: 69px; 
+    height: auto;
+    text-align: center;
+    position: relative; 
+}
+
+
+nav ul {
+    list-style: none;
+    display: flex;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0; 
+    padding: 0; 
+    
+
+}
+
+nav ul li {
+    margin-right: 15px;
+    
+    
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0px;
+    text-decoration: none;
+
+}
+
+.container h1 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: black;
+    text-decoration: none;
+    
+}
+
+.container .texto {
+    text-align: justify;
+    text-decoration: none;
+
+}
+
+.container p {
+    margin-bottom: 10px;
+}
+.imagem {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+    text-decoration: none;
+
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+}
